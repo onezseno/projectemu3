@@ -1,0 +1,43 @@
+.container-header {
+    margin: 0px;
+}
+
+.icon {
+    padding-left: 35px;
+    padding-top: 15px;
+}
+
+.container-body {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 200px;
+}
+
+.ruang1 {
+    font-family: "roboto";
+    font-size: 70px;
+    margin: 0px 0px 25px;
+    width: 445px;
+    color: blue;
+}
+
+.ruang2 {
+    font-family: "roboto";
+    font-size: 21px;
+    width: 445px;
+}
+
+.plgmbr {
+    display: flex;
+    align-items: center;
+}
+
+.gambar1 {
+    width: 192px;
+    padding: 10px;
+}
+
+.gambar2 {
+    width: 192px;
+    padding: 10px;
+}
